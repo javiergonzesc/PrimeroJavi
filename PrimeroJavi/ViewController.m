@@ -13,6 +13,9 @@
 @end
 
 @implementation ViewController
+- (IBAction)butonDirection:(id)sender {
+    
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
